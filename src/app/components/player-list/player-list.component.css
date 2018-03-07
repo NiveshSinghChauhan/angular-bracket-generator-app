@@ -1,0 +1,27 @@
+:host {
+  display: block;
+  margin-bottom: 3rem;
+}
+.list-container {
+  display: block;
+  background-color: rgba(230, 230, 250, 0.23);
+  border-radius: 3px;
+}
+strong {
+  color: lavender;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+ul {
+  -webkit-margin-after: 0;
+  -webkit-margin-before: 0;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+ul li {
+  font-family: sans-serif;
+  color: lavender;
+  list-style-type: decimal;
+  padding-top: 5px;
+}

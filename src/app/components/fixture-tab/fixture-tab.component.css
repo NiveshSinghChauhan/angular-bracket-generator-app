@@ -1,0 +1,22 @@
+:host {
+  display: inline-block;
+  padding: 5px;
+  height: 20px;
+  width: 200px;
+  border-radius: 3px;
+  /* border: 1px solid rgba(47, 79, 79, 0.34); */
+  background-color: slategray;
+  margin: 1px;
+  color: rgba(230, 230, 250, 0.5);
+  text-transform: uppercase;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 13px;
+}
+
+p {
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  overflow: hidden;
+  line-height: 1.5;
+}

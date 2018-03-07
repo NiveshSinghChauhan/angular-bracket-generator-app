@@ -1,0 +1,61 @@
+.inp-p-container {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 3px;
+  background-color: lavender;
+  margin-bottom: 3rem;
+}
+
+h1 {
+  color: lavender;
+  font-family: SANS-SERIF;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.inp-p {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  width: 15rem;
+}
+
+.bracket-container {
+  padding: 5px;
+  /* background-color: cornflowerblue; */
+  border-radius: 3px;
+  display: flex;
+  overflow: auto;
+  /* flex-direction: column; */
+}
+
+.btn-add-p {
+  width: 5rem;
+  background-color: lightslategray;
+  border: none;
+  border-radius: 3px;
+  padding: 5px;
+  margin-left: 1rem;
+  color: lavender;
+}
+
+.btn-new-t {
+  width: 10rem;
+  background: none;
+  border: 1px solid lightslategray;
+  border-radius: 3px;
+  padding: 5px;
+  margin-left: 1rem;
+  color: lightslategray;
+}
+.fixture-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+/* .round-fixture app-fixture{
+  margin-top: 53px;
+  margin-bottom: 53px;
+} */

@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+  padding: 2rem;
+  margin: 0;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background-color: rgba(119, 136, 153, 0.9);
+}
